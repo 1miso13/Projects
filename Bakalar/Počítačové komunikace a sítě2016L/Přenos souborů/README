@@ -1,0 +1,19 @@
+Michal Ondrejó (xondre08)
+Pøenos souborù
+
+ZÁKLADNÉ INFORMÁCIE
+zakladne informacie o servere a klientovy, klient si moze ulozit subory na server a potom ich moze stiahnut.
+
+
+
+PARAMETRE
+server:
+./server -p <èíslo portu>
+	-p <èíslo portu> - nastaví port, na ktorom bude server poèúva
+
+klient:
+./client -h <hostname> -p <port> [-d|-u] <file_name>
+	-h <hostname> 		- adresa servera
+	-p <èíslo portu> 	- port, na ktorí sa pripojí
+	-d <file_name>		- stiahne súbor zo servera
+	-u <file_name>		- uloí súbor na server

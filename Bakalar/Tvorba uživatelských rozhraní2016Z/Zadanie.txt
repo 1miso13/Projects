@@ -1,0 +1,9 @@
+Popis:
+Navrhnìte a realizujte systém a jeho rozhraní pro správu a editaci odborných recenzí dokumentù.
+Systém realizujte jako sadu skriptù pro práci se soubory umožòující základní správu dokumentù,
+recenzentù, zpracování odpovìdí a jejich automatické rozeslání autorùm.
+Vstupem systému je adresáø s dokumenty a tabulka autorù a jejich týmù (viz projekty do ITU).
+Systém umí automaticky pøiøadit zadaný poèet recenzentù tak, aby nevznikal pøekryv se spoluautory recenzenta. 
+Uživatelské rozhraní má umožnit efektivní hromadnou správu recenzí, 
+napojení fromuláøe a výsledkù služby Google Forms a hromadné rozesílání recenzí autorùm. 
+Realizujte pomocí webových technologií.

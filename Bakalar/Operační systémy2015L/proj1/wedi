@@ -1,0 +1,415 @@
+#!/bin/bash
+#WEDI_RC="subor.txt"
+#EDITOR="vi"
+#VISUAL="vi"
+napoveda(){
+	echo "
+    wedi [ADRESÁŘ]
+    wedi -m [ADRESÁŘ]
+    wedi SOUBOR
+    wedi -l [ADRESÁŘ]
+    wedi -l [-all] | [/all]
+    wedi -b|-a DATUM [ADRESÁŘ]
+";
+	exit 0
+}
+abspath() { 
+if [ -d "$1" ]; then 
+	# dir 
+	echo "$(cd "$1"; pwd)" 
+else  
+	# file 
+	if [ $1 = "*/*" ]; then 
+		echo "$(cd "${1%/*}"; pwd)/${1##*/}" 
+	else 
+		case "$1" in 
+			/home*) 
+				echo "$1" 
+				;; 
+			*) 
+				echo "$(pwd)/$1" 
+				;; 
+		esac 
+	fi 
+fi
+ }
+
+overenieFormatuDatumu() {
+#RRRR-MM-DD
+if [ "${#1}" -ne 10 ];then
+	echo "Chybny zapis datumu">&2
+	exit 1
+fi
+#Dat=$(echo $1 | sed 's/\(.\)/\1\n/g')
+#echo $(echo $Dat | awk '{print$1}')
+#echo $Dat
+str="$(uname)"
+if [ "$str" == 'FreeBSD' ]; then
+	date -jf "%Y-%m-%d" "$1" "+%Y-%m-%d" 2>1 > /dev/null
+elif [ "$str" == 'Linux' ]; then
+	date "+%Y-%m-%" -d "$1" 2>1 > /dev/null
+
+fi
+if [ ! $? -eq 0 ];then
+	echo "Nespravny datum" >&2
+	exit 1
+fi
+}
+
+vypisPodlaDatumu() {
+	#spracovanie zadaneho datumu
+	date1=$(echo $2 | sed "s|-| |g")
+	rokZ=$(echo $date1 | awk '{print$1}')
+	mesiacZ=$(echo $date1 | awk '{print$2}')
+	denZ=$(echo $date1 | awk '{print$3}' )
+	
+	#echo "$rokZ $mesiacZ $denZ"
+	if [ $3 -eq 1 ] && [  -n "$4" ] && [ ! -d "$4" ];then
+			echo "adresar '$4' neexistuje" >&2
+			exit 1
+		fi
+	pomocnaPremenna=0
+	f=$4
+	while read line; do
+ #echo "$line"
+ 		adresa=$(echo $line | sed "s|&[^&]*||g")
+			
+		ADRESAR=${adresa%/*}
+		#echo "$ADRESAR"
+	: '
+	 if [ "$ADRESAR" = "$f" ];
+	  then #ak sa ten subor nachadza v spravnej zlozke - treba este aby ukazovalo len v tej zlozke a nie v podadresaroch
+	 	echo "$f bolo najdene na  $line"
+	fi		 	
+	'
+		#rok, mesiac, den v zazname o otverenych suboroch
+		rok=$(echo $line | sed "s|[^%]*%||g" | awk '{print$1}' )
+		mesiac=$(echo $line | sed "s|[^%]*%||g" | awk '{print$2}' )
+		den=$(echo $line | sed "s|[^%]*%||g" | awk '{print$3}' )
+	####treba nastavit este pred a po - hotovo
+	asdf=0
+	if [ "$rok" -le "$rokZ" ] && ( [ "$mesiac" -le "$mesiacZ" ] || [ "$rok" -lt "$rokZ" ] ) && ( [ "$den" -le "$denZ" ] || [ "$rok" -lt "$rokZ" ] || [ "$mesiac" -lt "$mesiacZ" ] ); then
+		 		#echo "$rok $mesiac $den"
+		 		#echo $pomocnaPremenna
+		 		pomocnaPremenna=$((pomocnaPremenna +1))	
+		 		if [ $rok -eq $rokZ ] && [ $mesiac -eq $mesiacZ ] && [ $den -eq $denZ ] && [ $1 -eq 2 ]; then
+		 		    asdf=1
+					break
+				fi
+	 	fi
+	done < "$WEDI_RC"
+	
+	if [ $asdf -eq 0 ] && [ $1 -eq 2 ] ; then
+	pomocnaPremenna=$((pomocnaPremenna +1))
+	fi
+	#filtrovanie a vypis
+	### a vyfiltrovat ak sa najdu rovnake
+	if [ $1 -eq 2 ]; then 
+	 	p=0
+		while read line; do	 
+		p=$((p +1))	
+		adresa=$(echo $line | sed "s|&[^&]*||g")
+		ADRESAR=${adresa%/*}
+		if [ $p -ge $pomocnaPremenna ] && ( [ "$4" = "$ADRESAR" ] || [ $3 -eq 0 ] ) && [ -f $adresa ] ; then
+			pr="$pr"$'\n'$(echo $line | sed "s|&[^&]*||g")
+		#echo $ADRESAR
+		fi
+		done < "$WEDI_RC"
+		
+	elif [ $1 -eq 1 ]; then
+		p=0
+		while read line; do	 
+		p=$((p +1))	
+		adresa=$(echo $line | sed "s|&[^&]*||g")
+		ADRESAR=${adresa%/*}
+		if [ $p -le $pomocnaPremenna ] && ( [ "$4" = "$ADRESAR" ] || [ $3 -eq 0 ] ) && [ -f $adresa ] ; then
+			pr="$pr"$'\n'$(echo $line | sed "s|&[^&]*||g")
+			#echo $ADRESAR
+		fi
+		done < "$WEDI_RC"
+	else
+		echo "nastala chyba">&2
+		exit 1
+	fi
+	#echo "$pr"
+
+
+new_value=''
+new_value1=''
+for item in $pr; do
+case $new_value in
+*$item*) ;;
+*)
+#if [[ ! "$new_value" =~ $item ]] ; then   # first time?
+    new_value="$new_value"$'\n'"$item"
+	item1=$(echo $item | sed "s|[^/]*/||g")
+	new_value1="$new_value1"$'\n'"$item1"
+	#new_value="$new_value"$'\n'$(echo $item | sed "s|[^/]*/||g")
+;;
+  #fi
+esac
+  #if [[ ! "$new_value" =~ $item ]] ; then   # first time?
+   # new_value="$new_value"$'\n'$"$item"
+ # fi
+done
+new_value1=${new_value1:1} 
+#echo vysledok
+#f=$(echo "$new_value1" | tail -n +2);
+echo "$new_value1"
+	#$pr= $(echo "$pr" | sort | uniq)
+}
+#spocitanie riadkov
+#num=$(wc -l $WEDI_RC | sed "s|&[^&]*||g" )
+
+
+
+poslednyZaznam() { 
+#$1-1 vo vsetkych, 2 v urcenej zlozke
+#$2- zlozka
+		if [ ! -s $1 ]; then
+			echo "subor $1 je prazdny">&2
+			exit 1
+		fi
+		
+#spocitanie riadkov
+		num=$(wc -l $WEDI_RC | awk '{print$1}')
+		premenna=1
+		#echo "$num"
+		#while  [ ! -f $(tail -n $premenna $1 | head -n 1  | sed "s|&[^&]*||g") ]  || ( [ $2 -eq 2 ] &&  [  ($(tail -n $premenna $1 | head -n 1  | sed "s|&[^&]*||g") =~ "$2") ] ) && [ $num -le $premenna  ]  ; do 
+		adresa=$(tail -n 1 $1 | head -n 1  | sed "s|&[^&]*||g")
+		ADRESAR=${adresa%/*}
+		while  [ ! -f $(tail -n $premenna $1 | head -n 1  | sed "s|&[^&]*||g") ] || ( [ $2 -eq 2 ] && [ "$ADRESAR" != "$3" ] ) ; do 
+			if [ $premenna -gt $num ] ;then
+				echo "Zaznam nebol najdeny">&2
+				exit 2
+			fi
+			
+			premenna=$((premenna+1))
+			adresa=$(tail -n $premenna $1 | head -n 1  | sed "s|&[^&]*||g")
+			
+		ADRESAR=${adresa%/*}
+		#echo $ADRESAR
+		done
+		subor=$(tail -n $premenna $1 | head -n 1 | sed "s|&[^&]*||g")
+		echo "$subor"
+		#exit 1
+}
+najcastejsi() {
+#1-ci je so zlozkou; 2-zlozka
+
+while read line; do	 
+adresa=$(echo $line  | sed "s|&[^&]*||g")
+			
+		ADRESAR=${adresa%/*}
+	if [ -f $(echo "$line" | sed "s|&[^&]*||g") ] && ([ "$1" -eq 0 ] || [ "$2" = "$ADRESAR" ]) ;then 
+		#len ak este existuje subor
+		pr="$pr"$'\n'$(echo $line | sed "s|&[^&]*||g")	
+	fi	
+	done < "$WEDI_RC"
+	subor=$(echo "$pr" | sort | uniq -c | sort -nr | head -1 | awk '{print$2}')
+}
+
+
+###########################################################################################
+if [ -n "$WEDI_RC"  ]; 
+then 
+	$subor
+	if [ "$#" -eq 0 ]; then #automaticky sa zapne posledny
+    
+		
+        poslednyZaznam $WEDI_RC 1
+        
+		#subor=$(tail -n 1 $WEDI_RC | sed "s|&[^&]*||g")
+	else
+
+		case "$1" in
+			"-m")if [ "$#" -eq 2 ]; then 
+                    
+				    if [ -d "$2" ]; then
+					#spusti najcastejsi subor
+						priec=`abspath $2`
+						najcastejsi 1 $priec
+						#subor= 'realpath $2'
+
+					else
+						echo "$2 - nie je priecinok">&2
+						exit 2
+					fi
+				elif [ "$#" -eq 1 ]; then
+				#ak bol spusteny len s parametrom -m
+				#asdfghjkl=$(tail -n 1 $WEDI_RC | sed "s|&[^&]*||g" | sort | uniq -c | sort -nr | head -1)
+				najcastejsi 0
+				: '
+				while read line; do	 
+					if [ -f $(echo $line | sed "s|&[^&]*||g") ];then 
+						#len ak este existuje subor
+						pr="$pr"$'\n'$(echo $line | sed "s|&[^&]*||g")	
+					fi	
+					done < "$WEDI_RC"
+					subor=$(echo "$pr" | sort | uniq -c | sort -nr | head -1 | awk {print$2})'
+					#echo "$pr"
+				else
+					echo "Zly pocet argumentov">&2
+                    exit 1
+				fi
+	        ;;
+			"-l")#vypise zoznam vsetkych suborov, ktore boli pomocou skriptu editovane
+			#osetrenie parametrov
+			if [ ! -f "$WEDI_RC" ] || [ ! -s "$WEDI_RC" ];then #
+				echo "subor $WEDI_RC neexistuje alebo je prazdny">&2
+				exit 1
+			fi
+			if [ $# -eq 2 ] || [ $# -eq 1 ];then
+			if [ "$2" = "-all" ] || [ "$2" = "/all" ];then
+			echo "Vypis vsetkeho:"
+			while read line; do
+		            #echo "$line"
+					Datum=$(echo $line | sed "s|[^%]*%||g")
+					sub=$(echo $line | sed "s|&[^&]*||g")
+					#T=$(echo $line | sed "s|^[^ ]* ||g" | sed "s|%.*||g")
+		            
+					echo "$sub bol otvoreny: $Datum"
+				done < $WEDI_RC
+		        #treba nastavit aby sa zobrazoval len posledny
+		        
+			else
+				
+				if [ ! -z "$2" ];then 
+				priec=`abspath $2`
+				else
+				priec=$(pwd)
+				fi
+				while read line; do	 
+		adresa=$(echo $line | sed "s|&[^&]*||g")
+		ADRESAR=${adresa%/*}
+		if (  [ "$priec" = "$ADRESAR" ] ) && [ -f $adresa ] ; then
+			pr="$pr"$'\n'$(echo $line | sed "s|&[^&]*||g")
+			
+		fi
+		done < "$WEDI_RC"
+				
+				new_value=''
+				new_value1=''
+for item in $pr; do
+case $new_value in
+*$item*) ;;
+*)   
+#if  [ "${new_value#*$item }" = "$new_value" ];then
+#if [[ ! "$new_value" =~ $item ]] ; then   # first time?
+#item1=$(echo $item | sed "s|[^/]*/||g")
+    new_value="$new_value"$'\n'"$item"
+	item1=$(echo $item | sed "s|[^/]*/||g")
+	new_value1="$new_value1"$'\n'"$item1"
+;;
+  #fi
+esac
+done
+new_value1=${new_value1:1} 
+#echo vysledok
+
+
+#new_value2=$(echo "$new_value1" | tail -n +2);
+echo "$new_value1";
+				
+			fi
+			else
+		        echo "Chyba parametrov">&2
+		        exit 1
+			fi
+			exit 0
+	        ;;
+			"-b")#pred datumom
+				if [ ! -f "$WEDI_RC" ] || [ ! -s "$WEDI_RC" ];then
+					echo "subor $WEDI_RC neexistuje alebo je prazdny">&2
+					exit 1
+				fi
+				if [ "$#" -eq 3 ]; then 
+					
+					priec=`abspath $3`
+					overenieFormatuDatumu $2
+	            	vypisPodlaDatumu 1 $2 1 $priec 
+	            	exit 0
+	            elif [ "$#" -eq 2 ];then 
+				priec=$(pwd)
+	            	overenieFormatuDatumu $2
+	            	vypisPodlaDatumu 1 $2 1 $priec  
+	            	exit 0
+	            else
+					echo "Chyba argumentov">&2
+					exit 1
+					
+				fi
+	        ;;
+			"-a")#po datume 
+				if [ ! -f "$WEDI_RC" ] || [ ! -s "$WEDI_RC" ];then
+					echo "subor $WEDI_RC neexistuje alebo je prazdny">&2
+					exit 1
+				fi
+				if [ "$#" -eq 3 ]; then 
+					priec=`abspath $3`
+					overenieFormatuDatumu $2
+	        		vypisPodlaDatumu 2 $2 1 $priec 
+	        		exit 0
+	        	elif [ "$#" -eq 2 ] ;then
+				priec=$(pwd)
+					overenieFormatuDatumu $2
+	        		vypisPodlaDatumu 2 $2 1 $priec  
+	        		exit 0
+	        	else
+					echo "Chyba argumentov">&2
+					exit 1
+				fi
+			;;
+			"--help")#vypise napovedu 
+			if [ $# -ne 1 ];then
+			echo "Chyba argumentov">&2
+				exit 1
+			else
+				napoveda
+			fi
+			;;
+			*)#subor alebo adresar
+				if [ "$#" -ne 1 ]; then 
+					echo "Chyba argumentov">&2
+					exit 1
+				elif [ -f "$1" ]; then
+					#echo "$1 - je subor" 
+					subor=`abspath $1`
+				elif [ -d "$1" ]; then
+					
+					priec=`abspath $1`
+        			poslednyZaznam $WEDI_RC 2 $priec
+					echo "$1 - je priecinok"
+					#subor='`realpath $1'
+				else
+					echo "$1 nebolo mozne otvorit"
+					subor=`abspath $1`
+				fi
+                    
+			;;
+		esac
+	fi
+	#otvorenie suboru
+	if [ -z ${EDITOR+x} ]; 
+		then 
+			echo "EDITOR is unset";
+			if [ -z ${VISUAL+x} ]; 
+				then 
+					echo "VISUAL is unset">&2
+					exit 1 
+				else 
+					echo "$subor&$(date +%s%N)%$(date +'%Y %m %d %H:%M:%S')">>$WEDI_RC
+					echo "Opening '$subor' in '$VISUAL'";
+					$VISUAL $subor
+			fi 
+		else 
+			echo "$subor&$(date +%s%N)%$(date +'%Y %m %d %H:%M:%S')">>$WEDI_RC
+			echo "Opening $subor in '$EDITOR'";
+			$EDITOR $subor
+            
+	fi
+	else  
+		echo "WEDI_RC is unset">&2
+		exit 1       
+fi 
+exit 0

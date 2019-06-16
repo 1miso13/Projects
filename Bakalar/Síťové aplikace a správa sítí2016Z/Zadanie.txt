@@ -1,0 +1,160 @@
+Spoleèná èást popisu:
+Vytvoøte komunikující aplikaci podle konkrétní vybrané specifikace pomocí síové knihovny BSD sockets (pokud není ve variantì zadání uvedeno jinak). Projekt bude vypracován v jazyce C/C++, pøeložitelný a spustitelný v prostøedí systému Unixového typu (testováno bude na virtuálním poèítaèi Linux/Ubuntu http://nes.fit.vutbr.cz/isa/ISA2015.ova). 
+
+    Vypracovaný projekt uložený v archívu .tar a se jménem xlogin00.tar odevzdejte elektronicky pøes IS. Soubor nekomprimujte.
+    Termín odevzdání je 20.11.2016 (hard deadline). Odevzdání emailem po uplynutí termínu není možné.
+    Odevzdaný projekt musí obsahovat:
+        soubor se zdrojovým kódem (dodržujte jména souborù uvedená v konkrétním zadání),
+        funkèní Makefile pro pøeklad zdrojového souboru,
+        dokumentaci (soubor manual.pdf), která bude obsahovat uvedení do problematiky, návrhu aplikace, popis implementace, základní informace o programu, návod na použití. V dokumentaci se oèekává následující: titulní strana, obsah, logické strukturování textu, pøehled nastudovaných informací z literatury, popis zajímavìjších pasáží implementace, použití vytvoøených programù a literatura.
+        soubor README obsahující krátký textový popis programu s pøípadnými rozšíøeními/omezeními, pøíklad spuštìní a seznam odevzdaných souborù,
+        další požadované soubory podle konkrétního typu zadání. 
+    Pokud v projektu nestihnete implementovat všechny požadované vlastnosti, je nutné veškerá omezení jasnì uvést v dokumentaci a v souboru README.
+    Co není v zadání jednoznaènì uvedeno, mùžete implementovat podle svého vlastního výbìru. Zvolené øešení popište v dokumentaci.
+    Pøi øešení projektu respektujte zvyklosti zavedené v OS Unixového typu (jako je napøíklad formát textového souboru).
+    Vytvoøené programy by mìly být použitelné a smysluplné, øádnì komentované a formátované a èlenìné do funkcí a modulù. Program by mìl obsahovat nápovìdu informující uživatele o èinnosti programu a jeho parametrech. Pøípadné chyby budou intuitivnì popisovány uživateli.
+    Aplikace nesmí v žádném pøípadì skonèit s chybou SEGMENTATION FAULT ani jiným násilným systémovým ukonèením (napø. dìlení nulou).
+    Pokud pøejímáte velmi krátké pasáže zdrojových kódù z rùzných tutoriálù èi pøíkladù z Internetu (ne mezi sebou), tak je nutné vyznaèit tyto sekce a jejich autory dle licenèních podmínek, kterými se distribuce daných zdrojových kódù øídí. V pøípadì nedodržení bude na projekt nahlíženo jako na plagiát.
+    Konzultace k projektu podává vyuèující, který zadání vypsal.
+    Pøed odevzdáním zkontrolujte, zda jste dodrželi všechna jména souborù požadovaná ve spoleèné èásti zadání i v zadání pro konkrétní projekt. Zkontrolujte, zda je projekt pøeložitelný.
+
+Hodnocení projektu:
+
+    Maximální poèet bodù za projekt je 15 bodù.
+    Pøíklad kriterií pro hodnocení projektù:
+        nepøehledný, nekomentovaný zdrojový text: až -7 bodù
+        nefunkèní èi chybìjící Makefile: až -4 body
+        nekvalitní èi chybìjící dokumentace: až -5 bodù
+        nedodržení formátu vstupu/výstupu èi konfigurace: -3 body
+        odevzdaný soubor nelze pøeložit, spustit a odzkoušet: 0 bodù
+        odevzdáno po termínu: 0 bodù
+        nedodržení zadání: 0 bodù
+        nefunkèní kód: 0 bodù
+        opsáno: 0 bodù (pro všechny, kdo mají stejný kód)
+
+
+Instrukce pro spuštìní virtuálního stroje:
+
+Virtuální stroj byl vytvoøen programem VirtualBox. Pro import a spuštìní ve VMWare postupujte podle návodù pro import virtuálních strojù vytvoøených programem VirtualBox. Pokud budete mít problém se spuštìním systému, ovìøte, že máte povoleno (VT-x, AMD-V apod.) v Bios. Pokud Váš CPU nepodporuje VT-x, zakažte jej v nastavení virtuální stanice: Nastavení -> Systém -> Akcelerace (VT-x, AMD-V).
+
+Pro zprovoznìní virtuálního stroje není nutnì potøeba hardwarová akcelerace. Pokud máte po pøihlášení problémy s naètením výchozího prostøedí Unity (èerná obrazovka, automatický návrat na pøihlašovací obrazovku, apod.), mùžete použít ménì graficky nároèné prostøedí Metacity. Pro zprovoznìní Metacity lze použít napø. následující postup:
+
+- Na pøihlašovací obrazovce pøejdìte na textový terminál (napø.
+stiskem Ctrl+Alt+F1).
+- Pøihlašte se pøes terminál zadáním uživatelského jména a heslo.
+- Pøihlašovací údaje jsou:
+username: isa2015
+password: isa2015
+- Napište "sudo apt-get install gnome-session-fallback", zadejte heslo ještì jednou
+a pomocí "y" potvrïte instalaci balíèkù.
+- Po nainstalování zadejte "sudo reboot"
+- Pøi novém startu systému ještì pøed pøihlášením kliknìte na bílou
+ikonku s logem ubuntu a vyberte prostøedí Metacity místo
+výchozího Unity.
+- Nyní se mùžete pøihlásit.
+Popis varianty:
+Opravy zadani:
+
+    Korekce prikladu STDOUT programu - zalomeni radku u A zaznamu
+    Korekce prikladu
+
+    puvodni:
+    q: http://www.fit.vutbr.cz: type AAAA, class IN
+    r: http://www.fit.vutbr.cz: type AAAA, class IN, addr 2001:67c:1220:809::93e5:917
+    q: http://www.vutbr.cz: type CNAME, class IN
+    r: http://www.vutbr.cz: type CNAME, class IN, cname piranha.ro.vutbr.cz
+
+    opravene
+    q: www.fit.vutbr.cz: type AAAA, class IN
+    r: www.fit.vutbr.cz: type AAAA, class IN, addr 2001:67c:1220:809::93e5:917
+    q: www.vutbr.cz: type CNAME, class IN
+    r: www.vutbr.cz: type CNAME, class IN, cname piranha.ro.vutbr.cz
+
+
+Rough DNS 
+
+Implementujte zjednoduseny DNS server podporujici pouze UDP transportni protokol. 
+
+    Zaznamy o zone budou nacteny ze zonoveho souboru zadaneho jako posledni parametr.
+    DNS server rekurzivne vyresi dotazy smerujici na domeny, pro ktere neni autoritativni pomoci systemovych volani.
+    Dotazy na domenu, pro kterou autoritativni odpovi dle zonoveho souboru.
+    Povinne typy zaznamu, ktere bude Vase implementace podporovat jsou SOA,A,MX.
+    Program bude na STDOUT vypisovat prubeh viz sekce Priklad STDOUT programu "ala Wireshark" . Je nutne dodrzet presne format vystupu, bude kontrolovan na porovnani stringu.
+    Program je aktivni po spusteni a odpovida na dotazy klientu dokud neni ukoncen obdrzenim signalu SIGINT.
+
+Rozsireni:
+
+    Podpora vice zonovych souboru. Kolize v nazvech domen neuvazujte.  USAGE: ./roughDNS <zonefile1> <zonefile2> <zonefileX> (az +2b)
+    Podpora dalsich typu zaznamu NS, AAAA, CNAME, PTR, TXT (kazdy az za +1b)
+
+Povolene knihovny:
+
+    Parsovani DNS zone file
+    Standardni systemove knihovny
+    Ostatni konzultujete POUZE na oficialnim foru ve WISu v prislusnem vlakne
+
+Zakazane knihovny:
+
+    Komunikace s klientem musi byt zcela ve Vasi rezii a nesmite pouzit zadnou DNS knihovnu pro parsovani pozadavku ci vytvoreni odpovedi.
+
+Parametry:
+
+   -m [--mitm] <ip_address> # resolvuje kazdy dotaz na A a MX na zvolenou IP
+
+   -h [--help] # vypise usage
+
+   -p [--port] # port na kterem bude server naslouchat, pokud parametr neni zadany, pouzije standardni
+
+Syntax: ./roughDNS [-m] [-h] [-p <port>] [<zonefile>]
+
+Doporuceny postup:
+
+Nastavite si /etc/resolv.conf na localhost a zkusite nslookup ci dig oproti Vasemu serveru. Zacnete s implementaci -m parametru, pote implementujte rekurzivni server jako by nebyla zadana zadna zona a nakonec az podporu zonovych souboru.
+
+Pokyny k vypracovani:
+
+    Pokud se behem zpracovani vyskytne problem, vypiste jej na stderr.
+    Projekt musi byt spustitelny bez uprav (vyjma C#) na virtualnim stroji viz. obecne zadani.
+    Vsechny kroky pro zajisteni spustitelnosti budou iniciovany programem make a uvedeny v Makefile.
+    Povolene implementacni jazyky C/C++, Python, C#.
+    Program se bude opravdu spoustet jako $ ./roughDNS, zadne  modifikace jako $ python roughDNS, $ ./roughDNS.py a podobne nebudou akceptovany!!!
+    Pokud se rozhodnete implementovat v C# a uvedete to v souboru Readme, bude make spusten s pravy root. 
+    Hodnoceni bude provedeno automatickymi testy, proto je bezpodminecne nutne dodrzet vstupni i vystupni format jednotlivych souboru a pojmenovani.
+    Jakakoliv rucni korekci, ktera bude vyzadovana pri oprave bude penalizovana znacnou bodovou ztratou.
+    Je velmi vyrazne doporuceno pouzit OOP! 
+
+Odevzdani:
+
+Archiv se vsemi soubory (povinne soubory umistene v koreni) odevzdejte pomoci informacniho systemu. Pojmenovani xlogin00.tgz, kde xlogin00 je Vas login. Zpusob komprimace tar, pote gzip. Odevzdane archivy, ktere budou spatne komprimovane budou hodnoceny 0b.
+
+Priklad STDOUT programu "ala Wireshark":
+q: www.fit.vutbr.cz: type A, class IN
+r: www.fit.vutbr.cz: type A, class IN, addr 147.229.9.43
+q: fit.vutbr.cz: type SOA, class IN
+r: fit.vutbr.cz: type SOA, class IN, mname guta.fit.vutbr.cz
+q: fit.vutbr.cz: type MX, class IN
+r: fit.vutbr.cz: type MX, class IN, preference 20, mx eva.fit.vutbr.cz
+r: fit.vutbr.cz: type MX, class IN, preference 10, mx kazi.fit.vutbr.cz
+q: fit.vutbr.cz: type NS, class IN
+r: fit.vutbr.cz: type NS, class IN, ns guta.fit.vutbr.cz
+r: fit.vutbr.cz: type NS, class IN, ns kazi.fit.vutbr.cz
+r: fit.vutbr.cz: type NS, class IN, ns gate.feec.vutbr.cz
+r: fit.vutbr.cz: type NS, class IN, ns rhino.cis.vutbr.cz
+q: www.fit.vutbr.cz: type AAAA, class IN
+r: www.fit.vutbr.cz: type AAAA, class IN, addr 2001:67c:1220:809::93e5:917
+q: www.vutbr.cz: type CNAME, class IN
+r: www.vutbr.cz: type CNAME, class IN, cname piranha.ro.vutbr.cz
+q: google.com: type TXT, class IN
+r: google.com: type TXT, class IN, txt "v=spf1 include:_spf.google.com ~all"
+q: 8.8.8.8.in-addr.arpa: type PTR, class IN
+r: 8.8.8.8.in-addr.arpa: type PTR, class IN, google-public-dns-a.google.com
+
+Odkazy:
+
+https://www.isc.org/community/rfcs/dns/
+
+https://www.ietf.org/rfc/rfc1034.txt
+
+https://www.ietf.org/rfc/rfc1035.txt
+
+http://www.zonefile.org/?lang=en#zonefile

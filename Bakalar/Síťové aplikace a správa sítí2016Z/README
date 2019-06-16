@@ -1,0 +1,60 @@
+#tento text je písaný vo formate ISO 8859-2
+Autor: Michal Ondrejó
+DNS server
+
+DNS server podporuje iba UDP transportny protokol.
+Ak je zadany zonefile, prioritne hladá daný záznam v nom.
+Ak sa ale daný záznam nenájde, server to vyriesi rekurzívne.
+
+
+priklady spustenia:
+./roughDNS                              //server sa spusti na porte 53
+./roughDNS -h                           //vypise na STDOUT napovedu k programu
+./roughDNS --help                       //rovnake ako -h
+./roughDNS -m <ip_address>              //resolvuje kazdy dotaz na A a MX na zvolenu IP
+./roughDNS --mitm <ip_address>          //rovnake ako -m 
+./roughDNS -p <port>                    //server sa spusti na zadanom porte
+./roughDNS --port <port>                //rovnake ako -p
+./roughDNS -m <ip_address> -p <port>    //spusti sa server na zadanom porte a resolvuje vsetky dotazy na A a MX na zvolenu IP adresu
+./roughDNS [<zonefile>]                 //server sa spusta na porte 53, v subore zonefile sú ulozené DNS záznamy. Ak sa daný záznam nenachádza v zonefile, server to vyriesi rekurzívne
+./roughDNS [<zonefile>] [<zonefile1>] [<zonefileX>] //priklad s viac zonovými súbormi
+./roughDNS -m <ip_address> -p <port> [<zonefile>]   //príklad spustenia servera s parametrami -m, -p a zonovým súborom
+
+Rozsirenia:
+-Podpora viac zonových suborov
+-Podpora dalsch typov záznamov:
+  -NS
+  -AAAA
+  -CNAME
+  -TXT
+
+Zoznam súborov:
+ -dns
+   -#dnsython
+ -pomocneSubory
+   -another.cpp
+   -another.h
+ -Rdatas
+    -AAAARData.cpp
+    -ARData.cpp
+    -CNAMERData.cpp
+    -MXRData.cpp
+    -NSRData.cpp
+    -PTRRData.cpp
+    -RData.cpp
+    -RData.h
+    -SOARData.cpp
+    -TXTRData.cpp
+ -socket
+    -socket.cpp
+    -socket.h
+ -Header.cpp
+ -ISA.cpp
+ -Parameters.cpp
+ -Parameters.h
+ -Query.cpp
+ -roughDNS.py
+ -RR.cpp
+ -Makefile
+ -README
+ -manual.pdf

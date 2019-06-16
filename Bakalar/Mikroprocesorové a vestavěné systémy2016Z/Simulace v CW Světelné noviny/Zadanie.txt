@@ -1,0 +1,26 @@
+Popis:
+Vede: ing. Šimek
+
+V jazyce C nebo asembleru napište pro True-Time Simulator prostøedí Freescale Codewarrior verze 6.x aplikaci Svìtelné noviny urèenou pro zobrazování textu na displeji sloeném z LED uspoøádanıch do matice o 8 øádcích a 32 sloupcích. Pøedpokládejte implementaci na platformì HC(S)08. Klíèe k licencím ( license.dat ) pro bezproblémové ladìní projektu Vám budou vhodnì distribuovány vedoucím po ukonèení Vašeho pøihlašování se na projekty; cca od 13. 10. 2014 bude také moné vyuít instalací v uèebnách v rámci CVT na FIT VUT v Brnì.
+
+Pøedpokládejte, e uivatel (tedy hodnotitel Vašeho projektu) bude ovládat aplikaci pomocí prvkù nástroje Visualization Tool. Rozloení prvkù nástroje Visualization Tool máte k dipozici ke staení ve *.vlt souboru (viz Soubory / Projekty / Noviny), jejich konfigurace je ponechána na Vás.
+
+Detaily k zadání
+
+    Vaše aplikace nech je schopna zobrazit na displeji èást Vašeho pøihlašovacího jména (login) uloeného v pamìti mikrokontroléru. Kadı ze znakù Vašeho login reprezentujte bitmapou v rastru o velikosti 8 øádkù a 8 sloupcù, pøièem nejlevìjší a nejpravìjší sloupec budou (pro jednoduchost) plnit funci levé resp. pravé mezery znaku. Uvaujte pouze malá písmena abecedy.
+    Tlaèítko init: Pøi spuštìní aplikace musí bıt na displeji viditelné 4 nejlevìjší znaky Vašeho login. Do tohoto stavu se aplikace dostane i kdykoliv pozdìji, a to po stisku tlaèítka init.
+    Tlaèítko horiz: Po stisku tlaèítka horiz bude na svìtelnıch novinách rotovat Váš login ve smìru zprava doleva pokud Váš login konèí dvojèíslím 00; pokud Váš login konèí jinım dvojèíslím , bude rotovat zleva doprava.
+    Tlaèítko vert: Po stisku tlaèítka vert bude na svìtelnıch novinách rotovat Váš login ve smìru zhora dolù pokud Váš login konèí dvojèíslím 00 nebo 01; pokud Váš login konèí jinım dvojèíslím, bude rotovat zdola nahoru.
+    Rychlost rotace: Rychlost rotace bude mìnitelná pomocí táhla (baru) rychlost. 
+
+Poadavky na dokumentaci k projektu
+
+    max 10 stran A4, formát èitelnı v prostøedí CVT vèetnì všech zdrojovıch textù, obrázkù, tabulek atd. (napø. v pøípadì pouití (La)TEXu), písmo min. velikost 11),
+    analıza pamìovıch nárokù aplikace (zejména nároky na RAM, flash, velikost kódu, datové typy a názvy promìnnıch a konstant, vıznam jejich hodnot a bitù),
+    dekomponovanı slovní popis èinnosti aplikace metodou shora dolù,
+    grafickı popis èinnosti aplikace napø. s vyuitím vıvojovıch diagramù èi stavovıch automatù,
+    kostry/úseky vıznamnıch èástí kódu s komentáøi.
+
+Detaily k odevzdání
+
+Veškeré soubory poadované zadáním se odevzdávají v jediném ZIP archívu - dokumentace k øešení projektu, celı projekt vytvoøenı v prostøedí CodeWarrior - vèetnì konfigurace displeje uloené v souboru *.vtl nástroje Visualization Tool atd.

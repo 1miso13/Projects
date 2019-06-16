@@ -1,0 +1,10 @@
+USER	EMAIL	RECENZENT1	RECENZENT2	RECENZENT3
+xkeryj00	mymail@blabla.com	xblabla	xblabla2	xblabla3
+xondre08	mymail@blabla.com	xhendra	xhendra2	xkeryj00
+xsokol00	mymail@blabla.com	xubala	xkeryj00	xondre08
+xblabla	mymail@blabla.com	xkeryj00	xondre08	xsokol00
+xhendra	mymail@blabla.com	xondre08	xsokol00	xblabla
+xubala	mymail@blabla.com	xsokol00	xblabla	xhendra
+xblabla2	mymail@blabla.com	xblabla	xhendra	xubala
+xhendra2	mymail@blabla.com	xhendra	xubala	xblabla2
+xblabla3	mymail@blabla.com	xubala	xblabla2	xhendra2

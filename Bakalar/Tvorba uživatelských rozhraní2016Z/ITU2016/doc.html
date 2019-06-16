@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-2"/>
+    <title>Projekt IIS</title>
+    <style type="text/css">
+    	table { border-collapse: collapse; }
+    	td, th { border: 1px solid black; padding: 0.3em 0.5em; text-align: left; }
+    	dt { font-weight: bold; margin-top: 0.5em; }
+    </style>
+</head>
+<body>
+
+
+<h1>Pracovná agentúra</h1>
+
+<dl>
+	<dt>Autori</dt>
+	<dd>Július Kéry
+	    <a href="mailto:xkeryj00@stud.fit.vutbr.cz">xkeryj00@stud.fit.vutbr.cz</a>
+	</dd>
+	<dd>Michal Ondrejó
+	    <a href="mailto:xondre08@stud.fit.vutbr.cz">xondre08@stud.fit.vutbr.cz</a>
+	</dd>
+	<dt>URL aplikace</dt>
+	<dd><a href="http://www.stud.fit.vutbr.cz/~xkeryj00/IIS/">http://www.stud.fit.vutbr.cz/~xkeryj00/IIS/</a></dd>
+</dl>
+
+
+<h2>Uživatelia systému pre testovanie</h2>
+<table>
+<tr><th>Login</th><th>Heslo</th><th>Role</th></tr>
+<tr><td>admin</td><td>123456</td><td>Administrátor</td></tr>
+<tr><td>karol.novotna</td><td>123456</td><td>Úradník</td></tr>
+<tr><td>zuzana.urbancova</td><td>123456</td><td>Klient</td></tr>
+</table>
+
+<h2>Implementácia</h2>
+<p>Aplikácia sa spušťa skriptom index.php, ktorý spúšťa ďalšie skripty:
+<ul>
+<li>init.php -  pripojenie k databázi</li>
+<li>menu.php -  Prepojenosť medzi stránkami</li>
+<li>login.php -  Prihlásenie sa do IS</li>
+<li>register.php -  Registrácia do IS</li>
+<li>profile.php -  Zobrazenie profilu prihlaseného užívateľa</li>
+<li>pracPoz.php - Zobrazenie pracovných pozícií</li>
+<li>addWork.php - Pridanie nových pracovných pozícií</li>
+<li>addCompany.php - Pridanie novej firmy</li>
+<li>addUradnik.php - Pridanie novej firmy</li>
+<li>updateUradnik.php - Update informácií úradníka</li>
+<li>checkdate.php - Kontrola formatu dátumu</li>
+</ul>
+Ďalšie súbory: 
+<ul>
+<li>style.css - kaskádový štyl pre vzhľad stránky</li>
+<li>header.html - hlavička stránky</li>
+<li>footer.html - zapätie stránky</li>
+<li>data.sql - databáze + data</li>
+</ul>
+</p>
+
+
+<h2>Instalace</h2>
+<ul>
+<li>Skopírovať všetky súbory na server</li>
+<li>Importovať databázu zo súboru data.sql</li>
+</ul>

@@ -1,0 +1,10 @@
+#include "RData.cpp"
+#include "ARData.cpp"
+#include "AAAARData.cpp"
+#include "CNAMERData.cpp"
+#include "MXRData.cpp"
+#include "NSRData.cpp"
+#include "PTRRData.cpp"
+#include "SOARData.cpp"
+#include "TXTRData.cpp"
+using namespace std;
