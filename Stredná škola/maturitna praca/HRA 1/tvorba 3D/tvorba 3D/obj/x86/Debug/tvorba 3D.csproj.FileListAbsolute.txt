@@ -1,0 +1,360 @@
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.pdb
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.exe
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.pdb
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.dll
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\erb.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maly.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Koberec1.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3_0.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3.png
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\dude.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maly.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Koberec1.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\dude.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3.png
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.png
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope1.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope2.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\erb.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope1.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope2.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maly.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Koberec1.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\dude.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3_0.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3.png
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.png
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope1.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope2.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maly.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Koberec1.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\dude.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3.png
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.png
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.wav
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\projektil FBX.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope1.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope2.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maly.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Koberec1.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\dude.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\projektil FBX.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.png
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.wav
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\erb.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope1.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope2.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maly.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Koberec1.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\dude.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\projektil FBX.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.png
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.wav
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.exe
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.pdb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\building\Old Building 28.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl11_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl12_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl09_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl08_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl06_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl04_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl02_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl01_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl07_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl05_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN28_qiang01_sl_10_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl10_0.xnb
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl03_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\erb.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope1.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope2.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maly.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Koberec1.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\dude.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\projektil FBX.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\building\Old Building 28.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl11_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl12_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl09_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl08_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl06_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl04_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl02_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl01_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl07_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl05_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN28_qiang01_sl_10_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl10_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl03_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.png
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.wav
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.pdb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.dll
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.pdb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.exe
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.pdb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\devil.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\back.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\bottom.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\front.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\left.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\right.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\top.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\skybox.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\top_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\right_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\left_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\front_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\back_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\bottom_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\erb.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope1.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope2.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\back.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\bottom.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\front.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\left.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\right.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\top.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maly.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Koberec1.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\dude.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\projektil FBX.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\building\Old Building 28.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\devil.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\skybox.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl11_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl12_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl09_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl08_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl06_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl04_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl02_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl01_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl07_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl05_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN28_qiang01_sl_10_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl10_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl03_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\top_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\right_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\left_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\front_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\back_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\bottom_0.xnb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.png
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.wav
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.pdb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.dll
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.pdb
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.exe
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\erb.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope1.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope2.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maly.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Koberec1.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\dude.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\projektil FBX.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\building\Old Building 28.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\devil.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\skybox.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl11_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl12_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl09_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl08_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl06_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl04_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl02_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl01_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl07_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl05_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN28_qiang01_sl_10_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl10_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl03_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\top_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\right_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\left_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\front_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\back_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\bottom_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.png
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.wav
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.dll
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Engine.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.exe
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Naboj.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\TextFile1.txt
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Settings1.Designer.cs
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Settings1.settings
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\zbran.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Menu\Rounded_Button.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\stena.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\tvorba 3D.exe.config
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\obj\x86\Debug\tvorba 3D.csprojResolveAssemblyReference.cache

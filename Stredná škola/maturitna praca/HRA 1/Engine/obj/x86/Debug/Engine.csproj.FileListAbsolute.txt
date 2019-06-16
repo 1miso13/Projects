@@ -1,0 +1,75 @@
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\bin\x86\Debug\Engine.dll
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\bin\x86\Debug\Engine.pdb
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\Engine.dll
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\Engine\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\Engine\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\obj\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\Engine\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D\Engine\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D\Engine\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D\Engine\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\tvorba 3D\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\tvorba 3D\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\tvorba 3D\Engine\obj\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D\Engine\obj\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\Engine\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\Engine\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\Engine\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\Engine\obj\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\Engine\obj\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\Engine\obj\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\Engine\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\Engine\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\Engine\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\Engine\obj\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\Engine\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\Engine\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D 8.9\Engine\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\tvorba 3D 8.9\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\tvorba 3D 8.9\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\tvorba 3D 8.9\Engine\obj\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D 8.9\Engine\obj\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\HRA\Engine\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\HRA\Engine\bin\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\HRA\Engine\bin\x86\Debug\Engine.pdb
+C:\Users\Acer\Desktop\HRA\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\HRA\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\HRA\Engine\obj\x86\Debug\Engine.dll
+C:\Users\Acer\Desktop\HRA\Engine\obj\x86\Debug\Engine.pdb
+D:\Programovanie\XNA\HRA\Engine\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+D:\Programovanie\XNA\HRA\Engine\bin\x86\Debug\Engine.dll
+D:\Programovanie\XNA\HRA\Engine\bin\x86\Debug\Engine.pdb
+D:\Programovanie\XNA\HRA\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programovanie\XNA\HRA\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programovanie\XNA\HRA\Engine\obj\x86\Debug\Engine.dll
+D:\Programovanie\XNA\HRA\Engine\obj\x86\Debug\Engine.pdb
+D:\Programovanie\XNA\XNA\HRA\Engine\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+D:\Programovanie\XNA\XNA\HRA\Engine\bin\x86\Debug\Engine.dll
+D:\Programovanie\XNA\XNA\HRA\Engine\bin\x86\Debug\Engine.pdb
+D:\Programovanie\XNA\XNA\HRA\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programovanie\XNA\XNA\HRA\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programovanie\XNA\XNA\HRA\Engine\obj\x86\Debug\Engine.dll
+D:\Programovanie\XNA\XNA\HRA\Engine\obj\x86\Debug\Engine.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\bin\x86\Debug\Moj_Engine_Content\erb.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\bin\x86\Debug\Engine.dll
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\bin\x86\Debug\Engine.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\obj\x86\Debug\Engine.dll
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\obj\x86\Debug\Engine.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\obj\x86\Debug\Engine.csprojResolveAssemblyReference.cache

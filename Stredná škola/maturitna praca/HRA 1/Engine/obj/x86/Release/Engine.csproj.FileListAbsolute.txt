@@ -1,0 +1,21 @@
+C:\Users\Acer\Desktop\tvorba 3D\Engine\bin\x86\Release\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D\Engine\bin\x86\Release\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D\Engine\bin\x86\Release\Engine.pdb
+C:\Users\Acer\Desktop\tvorba 3D\Engine\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\tvorba 3D\Engine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\tvorba 3D\Engine\obj\x86\Release\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D\Engine\obj\x86\Release\Engine.pdb
+D:\Programovanie\XNA\HRA\Engine\bin\x86\Release\Moj_Engine_Content\erb.xnb
+D:\Programovanie\XNA\HRA\Engine\bin\x86\Release\Engine.dll
+D:\Programovanie\XNA\HRA\Engine\bin\x86\Release\Engine.pdb
+D:\Programovanie\XNA\HRA\Engine\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programovanie\XNA\HRA\Engine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programovanie\XNA\HRA\Engine\obj\x86\Release\Engine.dll
+D:\Programovanie\XNA\HRA\Engine\obj\x86\Release\Engine.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\bin\x86\Release\Moj_Engine_Content\erb.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\bin\x86\Release\Engine.dll
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\bin\x86\Release\Engine.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\obj\x86\Release\Engine.dll
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\obj\x86\Release\Engine.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\Engine\obj\x86\Release\Engine.csprojResolveAssemblyReference.cache

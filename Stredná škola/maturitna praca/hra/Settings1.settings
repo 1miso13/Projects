@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="tvorba_3D" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="IP_Adress" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25.91.210.31</Value>
+    </Setting>
+    <Setting Name="Default_SubnetMask" Type="System.String" Scope="User">
+      <Value Profile="(Default)">255.255.255.0</Value>
+    </Setting>
+    <Setting Name="resolution_X" GenerateDefaultValueInCode="false" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="resolution_Y" GenerateDefaultValueInCode="false" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">700</Value>
+    </Setting>
+    <Setting Name="FirstStart" Roaming="true" GenerateDefaultValueInCode="false" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vykreslovaniekolizii" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="fullScreen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25.91.210.31</Value>
+    </Setting>
+    <Setting Name="Setting1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.11</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,3 @@
+C:\Users\Acer\Desktop\tvorba 3D\Tvorba_3D_Content\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programovanie\XNA\HRA\Tvorba_3D_Content\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programovanie\XNA\XNA - kópia\HRA\Tvorba_3D_Content\obj\x86\Release\Moj_Engine_Content.contentprojResolveAssemblyReference.cache

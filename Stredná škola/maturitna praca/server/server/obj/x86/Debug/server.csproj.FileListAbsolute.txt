@@ -1,0 +1,11 @@
+C:\Users\Acer\AppData\Local\Temporary Projects\server\bin\Debug\server.exe
+C:\Users\Acer\AppData\Local\Temporary Projects\server\bin\Debug\server.pdb
+C:\Users\Acer\AppData\Local\Temporary Projects\server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\AppData\Local\Temporary Projects\server\obj\x86\Debug\server.exe
+C:\Users\Acer\AppData\Local\Temporary Projects\server\obj\x86\Debug\server.pdb
+C:\Users\Acer\Desktop\programovanie\testovanie TCP\server\server\obj\x86\Debug\server.exe
+C:\Users\Acer\Desktop\programovanie\testovanie TCP\server\server\obj\x86\Debug\server.pdb
+C:\Users\Acer\Desktop\programovanie\testovanie TCP\server\server\bin\Debug\server.exe.config
+C:\Users\Acer\Desktop\programovanie\testovanie TCP\server\server\bin\Debug\server.exe
+C:\Users\Acer\Desktop\programovanie\testovanie TCP\server\server\bin\Debug\server.pdb
+C:\Users\Acer\Desktop\programovanie\testovanie TCP\server\server\obj\x86\Debug\server.csprojResolveAssemblyReference.cache

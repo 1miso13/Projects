@@ -1,0 +1,137 @@
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Moj_Engine_Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\erb.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\koberec1_uvw mapa_3.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\head.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\jacket.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\pants.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\upBodyC.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Healthbar\Health_Bar_Panel.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Scope\Scope1.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Scope\Scope2.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maly.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Koberec1.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\dude.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\koberec1_uvw mapa_3_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\head_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\jacket_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\pants_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\upBodyC_0.xnb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\koberec1_uvw mapa_3.png
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Healthbar\Health_Bar_Panel.png
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\tvorba 3D.exe
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\tvorba 3D.pdb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Engine.dll
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\bin\x86\Release\Engine.pdb
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Release\tvorba 3D.exe
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3D\obj\x86\Release\tvorba 3D.pdb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Moj_Engine_Content\erb.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\erb.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Healthbar\Health_Bar_Panel.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Scope\Scope1.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Scope\Scope2.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maly.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Koberec1.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\dude.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\projektil FBX.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\building\Old Building 28.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\devil.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\strelba.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\koberec1_uvw mapa_3_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\head_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\jacket_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\pants_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\upBodyC_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl11_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl12_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl09_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl08_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl06_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl04_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl02_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl01_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl07_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl05_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN28_qiang01_sl_10_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl10_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl03_0.xnb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Healthbar\Health_Bar_Panel.png
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\strelba.wav
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\tvorba 3D.exe
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\tvorba 3D.pdb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Engine.dll
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Engine.pdb
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Release\tvorba 3D.exe
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3D\obj\x86\Release\tvorba 3D.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Moj_Engine_Content\erb.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\erb.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Healthbar\Health_Bar_Panel.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Scope\Scope1.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Scope\Scope2.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Naboj.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maly.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Koberec1.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\dude.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\projektil FBX.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\building\Old Building 28.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\devil.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\strelba.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Skybox\skybox.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\koberec1_uvw mapa_3_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\head_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\jacket_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\pants_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\upBodyC_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl11_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl12_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl09_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl08_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl06_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl04_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl02_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl01_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl07_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl05_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN28_qiang01_sl_10_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl10_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\maps\PGCN26_wa01_sl03_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Skybox\top_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Skybox\right_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Skybox\left_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Skybox\front_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Skybox\back_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Skybox\bottom_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\Healthbar\Health_Bar_Panel.png
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\strelba.wav
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\tvorba 3D.exe
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\tvorba 3D.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Engine.dll
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Engine.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\obj\x86\Release\tvorba 3D.exe
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\obj\x86\Release\tvorba 3D.pdb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\GUI\zbran.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\stena.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\tvorba 3D.exe.config
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\obj\x86\Release\tvorba 3D.csprojResolveAssemblyReference.cache
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\TextFile1.txt
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Settings1.Designer.cs
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Settings1.settings
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Victoria-hat-dance.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\victoria_0.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Victoria-hat-tpose.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\victoria_1.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\zbran2.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\zbran2.fbx
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\zbran1.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\untitled.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\zvuk.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\pistol.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\untitled3.xnb
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Release\Content\Menu\Rounded_Button.xnb

@@ -1,0 +1,684 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>erb.png</Source>
+      <Name>erb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\erb.xnb</Output>
+      <Time>2013-07-29T22:52:49.548411+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Healthbar\HealthBar_HealthPoint.png</Source>
+      <Name>GUI\Healthbar\HealthBar_HealthPoint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\HealthBar_HealthPoint.xnb</Output>
+      <Time>2013-08-18T22:18:23.8993315+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Healthbar\Health_Bar_Panel.png</Source>
+      <Name>GUI\Healthbar\Health_Bar_Panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Healthbar\Health_Bar_Panel.xnb</Output>
+      <Time>2013-08-18T21:59:59.997192+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Scope\Scope1.png</Source>
+      <Name>GUI\Scope\Scope1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope1.xnb</Output>
+      <Time>2013-08-18T22:43:44.7523194+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Scope\Scope2.png</Source>
+      <Name>GUI\Scope\Scope2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Scope\Scope2.xnb</Output>
+      <Time>2013-08-19T00:00:09.8295708+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maly.spritefont</Source>
+      <Name>maly</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maly.xnb</Output>
+      <Time>2013-07-30T09:11:51.4660557+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Koberec1.FBX</Source>
+      <Name>Koberec1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Koberec1.xnb</Output>
+      <Time>2013-07-30T12:52:58.9399118+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Koberec1_0.xml</Key>
+        <Value>2013-09-19T21:51:25.364702+02:00</Value>
+      </Dependency>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>dude.fbx</Source>
+      <Name>dude</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\dude.xnb</Output>
+      <Time>2013-07-30T20:49:55.7026903+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\dude_0.xml</Key>
+        <Value>2013-09-19T21:51:29.3739313+02:00</Value>
+      </Dependency>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>projektil FBX.FBX</Source>
+      <Name>projektil FBX</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\projektil FBX.xnb</Output>
+      <Time>2013-09-05T17:16:11.0441646+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\projektil FBX_0.xml</Key>
+        <Value>2013-09-19T21:51:32.0040818+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>building\Old Building 28.FBX</Source>
+      <Name>building\Old Building 28</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\building\Old Building 28.xnb</Output>
+      <Time>2013-09-10T18:16:09.0974715+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\building\Old Building 28_0.xml</Key>
+        <Value>2013-09-19T21:51:33.2681541+02:00</Value>
+      </Dependency>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl11_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl12_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl09_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl08_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl06_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl04_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl02_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl01_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl07_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl05_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN28_qiang01_sl_10_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl10_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl03_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>devil.fbx</Source>
+      <Name>devil</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\devil.xnb</Output>
+      <Time>2013-09-11T21:29:08.967355+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\devil_0.xml</Key>
+        <Value>2013-09-19T21:51:43.1957219+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>strelba.wav</Source>
+      <Name>strelba</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\strelba.xnb</Output>
+      <Time>2013-09-04T19:07:20.556049+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Skybox\skybox.x</Source>
+      <Name>Skybox\skybox</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\skybox.xnb</Output>
+      <Time>2013-09-11T22:21:00.6633338+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Skybox\skybox_0.xml</Key>
+        <Value>2013-09-19T21:51:43.6097456+02:00</Value>
+      </Dependency>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\top_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\right_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\left_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\front_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\back_0.xnb</Request>
+      <Request>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\bottom_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Koberec1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Koberec1_0.xml</Output>
+      <Time>2013-07-30T12:52:58.9399118+02:00</Time>
+    </Item>
+    <Item>
+      <Source>koberec1_uvw mapa_3.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\koberec1_uvw mapa_3_0.xnb</Output>
+      <Time>2013-07-30T12:52:58.9459121+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dude.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\dude_0.xml</Output>
+      <Time>2013-07-30T20:49:55.7026903+02:00</Time>
+    </Item>
+    <Item>
+      <Source>head.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\head_0.xnb</Output>
+      <Time>2013-07-30T20:49:55.7736944+02:00</Time>
+    </Item>
+    <Item>
+      <Source>jacket.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\jacket_0.xnb</Output>
+      <Time>2013-07-30T20:49:56.1117137+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pants.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\pants_0.xnb</Output>
+      <Time>2013-07-30T20:49:56.22072+02:00</Time>
+    </Item>
+    <Item>
+      <Source>upBodyC.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\upBodyC_0.xnb</Output>
+      <Time>2013-07-30T20:49:56.3097251+02:00</Time>
+    </Item>
+    <Item>
+      <Source>projektil FBX.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\projektil FBX_0.xml</Output>
+      <Time>2013-09-05T17:16:11.0441646+02:00</Time>
+    </Item>
+    <Item>
+      <Source>building\Old Building 28.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\building\Old Building 28_0.xml</Output>
+      <Time>2013-09-10T18:16:09.0974715+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl11.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl11_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0713393+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl12.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl12_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0733394+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl09.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl09_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0673391+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl08.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl08_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0543383+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl06.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl06_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0513381+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl04.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl04_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0213364+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl02.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl02_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0193363+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl01.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl01_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0033354+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl07.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl07_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0523382+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl05.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl05_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0503381+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN28_qiang01_sl_10.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN28_qiang01_sl_10_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0743395+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl10.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl10_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0703392+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\PGCN26_wa01_sl03.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\maps\PGCN26_wa01_sl03_0.xnb</Output>
+      <Time>2013-09-10T18:19:54.0203364+02:00</Time>
+    </Item>
+    <Item>
+      <Source>devil.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\devil_0.xml</Output>
+      <Time>2013-09-11T21:29:08.967355+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Skybox\skybox.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Skybox\skybox_0.xml</Output>
+      <Time>2013-09-11T22:21:00.6633338+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Skybox\top.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\top_0.xnb</Output>
+      <Time>2013-09-11T22:21:00.666334+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Skybox\right.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\right_0.xnb</Output>
+      <Time>2013-09-11T22:21:00.6623338+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Skybox\left.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\left_0.xnb</Output>
+      <Time>2013-09-11T22:21:00.6613337+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Skybox\front.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\front_0.xnb</Output>
+      <Time>2013-09-11T22:21:00.6603337+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Skybox\back.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\back_0.xnb</Output>
+      <Time>2013-09-21T00:32:50.8651909+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Skybox\bottom.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Skybox\bottom_0.xnb</Output>
+      <Time>2013-09-11T22:21:00.6403325+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\naboj.png</Source>
+      <Name>GUI\Naboj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\Naboj.xnb</Output>
+      <Time>2013-09-20T23:57:50.2640434+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\zbran.png</Source>
+      <Name>GUI\zbran</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\GUI\zbran.xnb</Output>
+      <Time>2013-09-24T19:07:20.6285024+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Rounded_Button.png</Source>
+      <Name>Menu\Rounded_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\Menu\Rounded_Button.xnb</Output>
+      <Time>2013-09-28T19:16:21.7474023+02:00</Time>
+    </Item>
+    <Item>
+      <Source>stena.fbx</Source>
+      <Name>stena</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\stena.xnb</Output>
+      <Time>2013-10-06T16:22:38.2779559+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\stena_0.xml</Key>
+        <Value>2013-11-13T19:17:32.2770895+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>stena.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\stena_0.xml</Output>
+      <Time>2013-10-06T16:22:38.2779559+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3DContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3DContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3D\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-07-27T18:25:13.1016863+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

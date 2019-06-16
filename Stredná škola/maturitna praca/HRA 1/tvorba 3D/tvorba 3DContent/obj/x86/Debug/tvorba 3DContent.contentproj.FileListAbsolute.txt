@@ -1,0 +1,11 @@
+C:\Users\Michal\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Nový priečinok (2)\Michal\Nový priečinok (2)\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\programovanie\XNA\XNA 3D\tvorba 3D\tvorba 3D\tvorba 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\tvorba 3D\tvorba 3D\tvorba 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\HRA - záloha\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\tvorba 3D 4.9.2013 17_44\tvorba 3D\tvorba 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\tvorba 3D 8.9\tvorba 3D\tvorba 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\HRA\tvorba 3D\tvorba 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programovanie\XNA\HRA\tvorba 3D\tvorba 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programovanie\XNA\XNA\HRA\tvorba 3D\tvorba 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3DContent\obj\x86\Debug\tvorba 3DContent.contentprojResolveAssemblyReference.cache

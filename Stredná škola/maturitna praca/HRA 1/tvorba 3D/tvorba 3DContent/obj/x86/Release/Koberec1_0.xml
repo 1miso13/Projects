@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>Fbx_Root</Name>
+    <Identity>
+      <SourceFilename>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3DContent\Koberec1.FBX</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>2.54 0 0 0 0 1.55530138E-16 -2.54 0 0 2.54 1.55530138E-16 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>Plane01</Name>
+        <Transform>-0.0126179894 0.9999204 2.64432723E-24 0 -0.999920368 -0.01261799 5.094341E-26 0 0 -5.702293E-25 1 0 13.1042509 -4.00261 8.820459 1</Transform>
+        <Positions>-35.2628365 -19.2474575 0 -17.7968941 -18.78642 0 1.08014393 -19.1550713 0 17.3140278 -18.8468037 0 35.2628365 -19.2474575 0 -35.2628365 19.2474575 0 -17.6314182 20.3049259 0 0 20.3049259 0 18.0180454 20.086586 0 35.2628365 19.2474575 0</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 1 2 3 4 3 2 3 4 5 6 5 4 5 6 7 8 7 6 7 8 9</Indices>
+            <Vertices>
+              <PositionIndices>5 0 6 1 7 2 8 3 9 4</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 2 0 0 3 0 0 3 0 0 3 0 0 3 0 0 3 0 0 3 0 0 2 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 0 0 1 0.25 0 0.25 1 0.5 0 0.5 1 0.75 0 0.75 1 1 0 1 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Material #3</Name>
+      <Identity>
+        <SourceFilename>D:\Programovanie\XNA\XNA - kópia\HRA\tvorba 3D\tvorba 3DContent\Koberec1.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.5882353 0.5882353 0.5882353</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">115.2</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\koberec1_uvw mapa_3.png</ExternalReference>
+  </ExternalReferences>
+</XnaContent>
