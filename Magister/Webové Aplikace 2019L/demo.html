@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Validator formularu</title>
+	<link rel="stylesheet" href="app.css" type="text/css" />
+	<script src="app.js"></script>
+</head>
+<body>
+	<form class="Form">
+		Max length 5:<br>
+		<input type="test" lenghtmax=5><br>
+		Min length 2:<br>
+		<input type="test" lenghtmin=2><br>
+		Min length 4 and max length 8:<br>
+		<input type="test" lenghtmin=4 lenghtmax=8><br>
+		Required:<br>
+		<input type="test" required>*<br>
+		Number, uppercase, lowercase, 8 characters:<br>
+		<input type="test" lenghtmax=8 required pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}">*<br>
+		E-mail:<br>
+		<input type="test"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"><br>
+		<input type="submit">
+	</form>
+	
+	<form class="Form">
+		Required text with length from 3 to 10:<br>
+		<input type="test" lenghtmax=10 lenghtmin=3 required >*<br>
+		3-5 numbers <br>
+		<input type="test" lenghtmin=3 lenghtmax=5 pattern="^[0-9]+$"><br>
+		<input type="submit">
+	</form>
+</body>
+</html> 

@@ -1,0 +1,1 @@
+Vytvoøte aplikaci, která bude provádìt vizualizaci spektra zvuku v reálném èase. Výpoèet spektra zvukového vstupu provádìjte (napøíklad) prostøednictvím FFT. Aplikace bude také volitelnì zobrazovat prùbìh zvukového signálu (simulace osciloskopu). Celou aplikaci mùžete realizovat v prostøedí MS Windows napøíklad s využitím rozhraní DirectX (DirectSound).

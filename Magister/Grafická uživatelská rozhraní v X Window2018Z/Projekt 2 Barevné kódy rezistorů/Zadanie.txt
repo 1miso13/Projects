@@ -1,0 +1,10 @@
+Zadání semestrálního projektu je možné vybrat z existujících variant, nebo vlastní. Vlastní zadání musí být ovšem nejdøíve schváleno a registrováno, proto návrhy na svoje projekty posílejte e-mailem na adresu kasparek@fit.vutbr.cz nejlépe se subjektem "GUX: Zadani". Název schváleného zadání bude poté pøipsán do seznamu na konci tohoto zadání. Mìlo by se jednat o program demonstrující vaši schopnost vytvoøit GUR v systému X Window s využitím knihovny Motif nebo Gtk+2/3. Použití jiných knihoven je nutné pøedem domluvit. Je zakázáno používat jakékoliv generátory, vše musí být ruènì psaný kód.
+
+Za minimální obtížnost je považován projekt, který bude odpovídat piškvorkám s nìkolika tlaèítky, menu a s rozumnou reakcí na zmìnu velikosti aplikaèního okna. Implementace poèítaèového pøemýšlení nad následujícím tahem není podstatná, staèí hra dvou hráèù proti sobì.
+
+Vhodné jsou napø. demonstraèní prográmky rùzných algoritmù z grafiky nebo rùzné hry s tím, že vždy budou použity i nìjaké ovládací prvky (tlaèítka, menu, atd.). Napøíklad lze dále rozšíøit a vylepšit kreslící program, nebo vytvoøit jednoduchý souborový manažer, dámu, piškvorky, vykreslování bioritmù nebo fraktálù, zobrazování 3D tìles/drátových modelù, hodiny, pexeso, námoøní bitvu, puzzle, tetris, logik, bludištì, housenku, zobrazování grafù, kalkulaèku...
+
+Druhý projekt je za více bodù a tomu by mìla odpovídat složitost zadání - pøedevším GUI a jeho vlastnosti by tedy mìly být propracovanìjší než u prvního projektu! Za pøíliš jednoduchý projekt mohou být strženy body i když bude jinak bez chyb.
+
+Projekty se vypracovávají samostatnì. I pokud je více studentù na jedno zadání, nejedná se o skupinovou práci!
+Kromì vlastního projektu je brán v úvahu pøi bodovém hodnocení také systém pro sestavení projektu - tak jako u prvního projektu by mìl být v maximální možné míøe pøenositelný. Pro Gtk+ pøedpokládá použití pøíkazu gtk-config/pkg-config, pro Motif použití Imakefile.

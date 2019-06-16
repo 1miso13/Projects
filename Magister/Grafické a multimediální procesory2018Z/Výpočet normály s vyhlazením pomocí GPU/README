@@ -1,0 +1,3 @@
+OpenCL - multiplatformní GPGPU API
+ - AMD: https://github.com/GPUOpen-LibrariesAndSDKs/OCL-SDK/releases
+ - nVidia CUDA 10.0: https://developer.nvidia.com/cuda-downloads

@@ -1,0 +1,137 @@
+#!/usr/bin/python
+import   sys, wave, struct, math
+import numpy as np
+import scipy.io.wavfile
+import os
+from array import array
+import pickle
+
+def main(argv):
+	
+	inputFile = sys.argv[1]
+	outputFile = sys.argv[2]
+	#print (outputFile);
+	
+	waveFile = wave.open(inputFile, 'r')
+	
+	output_file = open(outputFile, 'wb')
+	data=[]
+	length = waveFile.getnframes()
+	for i in range(0,length):
+		waveData = waveFile.readframes(1)
+		d=(struct.unpack("<h", waveData))
+		data.append((d[0]))
+	#print(data)
+	print("Input wav: ",inputFile,"name")
+	print("\t",len(data),"samples")
+	print("\t",(len(data)/8000),"seconds")
+	
+	#x = np.arange(len(data))
+	#np.array_split(x, 160)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	pocetKoeficientov = 4
+	#output_file.write(pocetKoeficientov.to_bytes(2,"little"))
+	#pocetKoeficientov.astype('uint8').tofile(output_file)
+	
+	
+	
+	outFile=[]
+	samplesLength=160
+	n=(len(data)/samplesLength)
+	for isampple in range(0,int(n)):
+	
+		aData =data[int(isampple*samplesLength):int(((isampple+1)*samplesLength))]
+		#print(aData)
+		
+		#apply hamming window
+		hammingWindow = np.hamming(samplesLength)
+		for index in range(samplesLength):
+			aData[index]=hammingWindow[index]*aData[index]
+		
+		#samplesLength=12
+		#aData=[0,0.707,1,0.707,0,-0.707,-1,-0.707,0,0.707,1,0.707]
+		
+		##pocitanie autokorelacnych koeficientov
+		R = []
+		for Rindex in range(0,pocetKoeficientov):
+			SUM =0
+			for j in range(0,samplesLength):
+				a1=0
+				if j+Rindex<samplesLength:
+					a1 =aData[(j+Rindex)]
+				a2= aData[j]
+				SUM = SUM +a1*a2
+				#print("a:",Rindex,j,SUM,a1,a2)
+				
+			R.append(SUM)
+			
+			
+			
+		
+		#R[0]=6
+		#R[1]=4.25
+		#R[2]=0.5
+		#print("R:",R)
+		
+		
+		E=R[0]
+		k=[]
+		a=[]
+		ai=[]
+		#TMP values for indexing
+		for i in range(pocetKoeficientov):
+			k.append(0)
+			for i1 in range(pocetKoeficientov):
+				ai.append(0)
+			a.append(ai)
+			ai=[]
+		
+		##Levinson-Durbin
+		for i in range(1,pocetKoeficientov):
+			SumK = 0
+			for j in range(1,i):
+				SumK=SumK+a[i-1][j]*R[i-j]
+				#print("SumK",j,SumK,a[i-1][j],R[i-j])
+			ki=(-(R[i]+SumK)/E)
+			#print("ki:",i,ki,"=-(",R[i],"+",SumK,")/",E)
+			a[i][i]=ki
+			for j in range(1,i):
+				a[i][j]=a[i-1][j]+ki*a[i-1][i-j]
+			E=(1-ki*ki)*E
+		
+		#print("a",a[len(a)-1])
+		#a.pop(0)
+		
+		for i in range(len(a)):
+			a[i][0]=E ##nepotrebujeme hodnotu -1 ale potrebujeme E
+		
+		
+		outFile.append(a[len(a)-1])
+		
+		
+	##save a[] and E
+	#output_file.write(E.to_bytes(2,"little"))
+	#float_array = array('d',outFile)
+	#float_array.tofile(output_file)
+	
+	pickle.dump(outFile, output_file)
+	
+	#print(outFile)
+	sizeSum=0
+	for i in range(len(outFile)):
+		sizeSum=sizeSum+len(outFile[i])
+	sys.stderr.write(str(sizeSum))
+	
+	
+if __name__ == "__main__":
+   main(sys.argv[1:])

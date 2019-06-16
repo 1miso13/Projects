@@ -1,0 +1,97 @@
+#!/usr/bin/python
+import   sys, wave, struct, math
+import numpy as np
+import scipy.io.wavfile
+import os
+import pickle
+
+def main(argv):
+	
+	inputFile = sys.argv[1]
+	outputFile = sys.argv[2]
+	pocetVzorkovMedziImpulzmi=160
+	generateNoise=0
+	if len(sys.argv) > 3:
+		##type of generated signal
+		if(sys.argv[3]=="-n"):
+			generateNoise=1
+		elif(sys.argv[3]=="-b"):
+			pocetVzorkovMedziImpulzmi = int(sys.argv[4])
+	
+	outputWaveFile=[]
+	
+	float_array=[]
+	with open(inputFile, 'rb') as pickle_file:
+		float_array = pickle.load(pickle_file)
+		
+	for PartIndex in range(len(float_array)):
+		
+		a=float_array[PartIndex]
+		
+		
+		
+		##load a[] with E 
+		
+		E=a[0]
+		
+		a[0]=-1 ##1. hodnota bola nahradena E
+		
+		samplesLength=160
+		
+		
+		
+		
+		
+		
+		outputWave=[]
+		#generate samples
+		
+		if generateNoise==1:
+			outputWave = np.random.normal(0,1,samplesLength)
+		else:
+			for i in range(0,samplesLength):
+				if i%pocetVzorkovMedziImpulzmi==0:
+					outputWave.append(1)
+				else:
+					outputWave.append(0)
+				
+		#generate samples
+		for i in range(0,samplesLength):
+			IIRsum =0
+			j=0
+			while i-j>=0 and j<len(a):
+				IIRsum= IIRsum+(-a[j])*outputWave[i-j]
+				#print (IIRsum,-a[j],outputWave[i-j])
+				j=j+1
+			
+			outputWave[i]=(IIRsum)#*math.sqrt(E/samplesLength))#*Gain
+			
+			#print(IIRsum)
+		
+		hammingWindow1 = np.hamming(samplesLength)
+		for index in range(samplesLength):
+			outputWave[index]=outputWave[index]/hammingWindow1[index]*math.sqrt(E/samplesLength)
+		
+		outputWaveFile.extend(outputWave)
+	#print (outputWaveFile)
+	
+	##low pass filter
+	#outputWaveFile1 = []
+	#for index in range(1,len(outputWaveFile)):
+	#	outputWaveFile1.append(outputWaveFile[index] - outputWaveFile[index-1])
+		
+	#outputWaveFile=outputWaveFile1
+	Fileaas=[]
+	for i in range(len(outputWaveFile)):
+		Fileaas.append(int(outputWaveFile[i]))
+	
+	npArray= np.asarray(Fileaas, dtype = np.int16)
+	scipy.io.wavfile.write(outputFile, 8000, npArray)
+	#waveFile = wave.open(outputFile, 'wb')
+	#waveFile.writeframesraw(outputWave)
+	
+	sys.stderr.write(str(len(outputWaveFile)))
+	
+	
+if __name__ == "__main__":
+   main(sys.argv[1:])
