@@ -1,38 +1,38 @@
-2017, Michal Ondrejó
-Fakulta informaèních technologií
-Vysokého uèení technického v Brnì 
+2017, Michal OndrejÃ³
+Fakulta informaÄnÃ­ch technologiÃ­
+VysokÃ©ho uÄenÃ­ technickÃ©ho v BrnÄ› 
 
-Tvorba øezù z 3D modelù pro vystøihovánky "sliceforms"
+Tvorba Å™ezÅ¯ z 3D modelÅ¯ pro vystÅ™ihovÃ¡nky "sliceforms"
 Creation of Slices of 3D Models for "Sliceforms"
-Vedoucí:
+VedoucÃ­:
 	Herout Adam, prof. Ing., Ph.D., UPGM FIT VUT
 Student:
-	Ondrejó Michal
+	OndrejÃ³ Michal
 
-Zadání:
-Prostudujte a popište vystøihovánku "sliceforms", vèetnì relevantní matematiky a geometrie pro tvorbu tìchto vystøihovánek.
-Vyberte a popište vhodnı nástroj pro návrh a vytvoøení vystøihovánek "sliceforms".
-Navrhnìte funkènost nástroje pro tvorbu vytsøihovánek "sliceforms".
-Implementujte navrenı nástroj, testujte ho na uivatelích a zdokonalujte jej.
-Vytvoøte dostateènou sadu demonstraèních pøíkladù funkènosti vytvoøeného nástroje a zhodnote jeho vlastnosti.
-Zhodnote dosaené vısledky a navrhnìte monosti pokraèování projektu; vytvoøte plakátek a krátké video pro prezentování projektu.
+ZadÃ¡nÃ­:
+Prostudujte a popiÅ¡te vystÅ™ihovÃ¡nku "sliceforms", vÄetnÄ› relevantnÃ­ matematiky a geometrie pro tvorbu tÄ›chto vystÅ™ihovÃ¡nek.
+Vyberte a popiÅ¡te vhodnÃ½ nÃ¡stroj pro nÃ¡vrh a vytvoÅ™enÃ­ vystÅ™ihovÃ¡nek "sliceforms".
+NavrhnÄ›te funkÄnost nÃ¡stroje pro tvorbu vytsÅ™ihovÃ¡nek "sliceforms".
+Implementujte navrÅ¾enÃ½ nÃ¡stroj, testujte ho na uÅ¾ivatelÃ­ch a zdokonalujte jej.
+VytvoÅ™te dostateÄnou sadu demonstraÄnÃ­ch pÅ™Ã­kladÅ¯ funkÄnosti vytvoÅ™enÃ©ho nÃ¡stroje a zhodnoÅ¥te jeho vlastnosti.
+ZhodnoÅ¥te dosaÅ¾enÃ© vÃ½sledky a navrhnÄ›te moÅ¾nosti pokraÄovÃ¡nÃ­ projektu; vytvoÅ™te plakÃ¡tek a krÃ¡tkÃ© video pro prezentovÃ¡nÃ­ projektu.
 
-Priloené CD obsahuje:
-3D modely 				- Jednoduché 3D modely vo formáte OBJ
-Aplikácia 				- V tomto prieèinku sa nachádza spustite¾ná aplikácia
-Dokumentácia Latex		- Zdrojovı kód dokumentácie v Latex
-Unity projekt 			- Tento prieèinok obsahuje Unity projekt zahròujúci zdrojové súbory
-Video 					- Video zobrazujúce vytvorenú aplikáciu
-Bakalárska práca.pdf 	- Dokumentácia k práci
-Plagát.pdf 				- Vytvorenı plagát
-Readme.txt 				- Obsahuje informácie o práci
+PriloÅ¾enÃ© CD obsahuje:
+3D modely 				- JednoduchÃ© 3D modely vo formÃ¡te OBJ
+AplikÃ¡cia 				- V tomto prieÄinku sa nachÃ¡dza spustiteÄ¾nÃ¡ aplikÃ¡cia
+DokumentÃ¡cia Latex			- ZdrojovÃ½ kÃ³d dokumentÃ¡cie v Latex
+Unity projekt 				- Tento prieÄinok obsahuje Unity projekt zahrÅˆujÃºci zdrojovÃ© sÃºbory
+Video 					- Video zobrazujÃºce vytvorenÃº aplikÃ¡ciu
+BakalÃ¡rska prÃ¡ca.pdf 			- DokumentÃ¡cia k prÃ¡ci
+PlagÃ¡t.pdf 				- VytvorenÃ½ plagÃ¡t
+Readme.txt 				- Obsahuje informÃ¡cie o prÃ¡ci
 
 
 
 Spustenie:
-V prieèinku "Aplikácia" sa nachádzajú tri prieèinky s názvom operaèného systému. Tieto prieèinky obsahujú spustitelnú aplikáciu.
-Priloil som nieko¾ko 3D modelov na jednoduchšie vyskúšanie aplikácie.
+V prieÄinku "AplikÃ¡cia" sa nachÃ¡dzajÃº tri prieÄinky s nÃ¡zvom operaÄnÃ©ho systÃ©mu. Tieto prieÄinky obsahujÃº spustitelnÃº aplikÃ¡ciu.
+PriloÅ¾il som niekoÄ¾ko 3D modelov na jednoduchÅ¡ie vyskÃºÅ¡anie aplikÃ¡cie.
 
 
-Aplikácia bola vytvorená v Unity 5.5.0.
-Pre spustenie projektu v prostredí Unity je potrebné zvoli prieèinok Bachelor Thesis v prieèinku Unity projekt pri spústaní Unity.
+AplikÃ¡cia bola vytvorenÃ¡ v Unity 5.5.0.
+Pre spustenie projektu v prostredÃ­ Unity je potrebnÃ© zvoliÅ¥ prieÄinok Bachelor Thesis v prieÄinku Unity projekt pri spÃºstanÃ­ Unity.
