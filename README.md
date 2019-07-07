@@ -40,3 +40,17 @@ Tento repozitár obsahuje školské projekty
 
 	
 ## Magister
+- 2017Z
+	- [HardwareSoftware Codesign](Magister/HardwareSoftware%20Codesign2017Z/projekt) - C++, VHDL
+- 2018L
+	- [Multimédia](Magister/Multim%C3%A9dia2018L) - C#
+	- [Zpracování řečových signálů](Magister/Zpracov%C3%A1n%C3%AD%20%C5%99e%C4%8Dov%C3%BDch%20sign%C3%A1l%C5%AF2018L/16kbps) - Python
+- 2018Z	
+	- [Inteligentní systémy](/Magister/Inteligentn%C3%AD%20syst%C3%A9my2018Z) - Domoticz, Java
+	- [Grafické a multimediální procesory](Magister/Grafick%C3%A9%20a%20multimedi%C3%A1ln%C3%AD%20procesory2018Z/V%C3%BDpo%C4%8Det%20norm%C3%A1ly%20s%20vyhlazen%C3%ADm%20pomoc%C3%AD%20GPU) - C++
+	- [Grafická uživatelská rozhraní v X Window](Magister/Grafick%C3%A1%20u%C5%BEivatelsk%C3%A1%20rozhran%C3%AD%20v%20X%20Window2018Z) - C
+- 2019L
+	- [Bioinformatika](/Magister/Bioinformatika%202019L) - Python
+	- [Výpočetní geometrie](Magister/V%C3%BDpo%C4%8Detn%C3%AD%20geometrie%202019L) - C++
+	- [Webové Aplikace](/Magister/Webov%C3%A9%20Aplikace%202019L) - JavaScript
+
