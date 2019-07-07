@@ -41,8 +41,7 @@ Tento repozitár obsahuje školské projekty
 	
 ## Magister
 
-#### Magister thesis : Parametrické 3D modely (C++, OpenGl) TODO
-
+#### Magister thesis : Parametrické 3D modely (C++, OpenGl) - TODO
 > Cieľom projektu je vytvorenie knižnice pre tvorbu parametrických modelov
 
 - 2017Z
